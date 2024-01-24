@@ -40,7 +40,7 @@ async function sendActivationEmail(email, name, activationLink, token) {
             service: 'gmail',
             auth: {
                 user: '200701506@rajalakshmi.edu.in', // replace with your Gmail email
-                pass: 'J7907131969N@'   // replace with your Gmail password
+                pass: '##############'   // replace with your Gmail password
             }
         });
 
